@@ -13,3 +13,6 @@ Algorithms and Data Structures
 Word Guessing Algorithm: For each input, the guessed letter is checked against the word. If the letter is in the word, it replaces the corresponding asterisks in the string. If the letter is incorrect, the count of wrong guesses is incremented.
 Additional Notes
 The program is simple to use and flexible, allowing for easy modification of the word list in the words array. You could also extend it to include additional features, such as difficulty levels or saving and loading game states.
+![image](https://github.com/user-attachments/assets/16fbcc7c-1a81-43eb-8da0-47b937f10c1f)
+
+![image](https://github.com/user-attachments/assets/8bde7998-f1fb-401a-8186-deb16f74c90b)
